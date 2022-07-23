@@ -15,5 +15,8 @@
 /data/Map001.json https://raw.githubusercontent.com/Horizons222/UpdateForSteamGame/main/Map001.json
 <End of Version>
 
+<Version: 1.05>
+/data/Map001.json https://raw.githubusercontent.com/Horizons222/UpdateForSteamGame/main/Map001.json
+<End of Version>
 
 
