@@ -33,3 +33,8 @@
 /data/Map001.json https://raw.githubusercontent.com/Horizons222/UpdateForSteamGame/main/Map001.json
 /data/System.json https://raw.githubusercontent.com/Horizons222/UpdateForSteamGame/main/System.json
 <End of Version>
+
+<Version: 1.09>
+/data/Map001.json https://raw.githubusercontent.com/Horizons222/UpdateForSteamGame/main/Map001.json
+/data/System.json https://raw.githubusercontent.com/Horizons222/UpdateForSteamGame/main/System.json
+<End of Version>
